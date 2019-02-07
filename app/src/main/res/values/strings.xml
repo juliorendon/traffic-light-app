@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Traffic Light App</string>
+    <string name="red_button">Red Button</string>
+    <string name="yellow_button">Yellow Button</string>
+    <string name="green_button">Green Button</string>
+    <string name="traffic_light_color">Traffic Light Color</string>
+</resources>
